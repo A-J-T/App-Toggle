@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Autotech</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_selection">Selection</string>
+    <string name="set_your_settings_to_make_your_device_fully_automated">Set Your Settings to make your device Fully Automated</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_auto_silent">AutoSilent</string>
+    <string name="title_activity_auto_bluetooth">AutoBluetooth</string>
+    <string name="title_activity_auto_wifi">AutoWifi</string>
+    <string name="title_activity_auto_brightness">AutoBrightness</string>
+    <string name="title_activity_mobile_data">MobileData</string>
+    <string name="title_activity_battery_status">BatteryStatus</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_help">Help</string>
+    <string name="autoname">Developers \n\n 1.Amod Tawade\n\n2.Aniruddha Bodkhe\n\n3.Akash Patil \n\n4.Sadiya Bhawania \n\n5.Krutika Thorat</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="for_feedback_contact_us_via_email_on_autotechsupport_gmail_com_n_ntouch_the_mail_icon_to_contact">For FeedBack, Contact Us via email on autotechsupport@gmail.com\\n\\nTouch the mail icon to Contact</string>
+    <string name="_1_automatically_balances_performance_where_possible_n2_saves_energy_by_reducing_your_device_performance_n3_it_also_balances_your_screen_brightness_to_a_stable_position_when_your_battery_is_below_30_and_is_about_to_dead_n4_turns_off_the_bluetooth_wi_fi_automatically_when_it_is_in_no_use_n5_automatically_changes_your_profile_mode_on_your_device_specially_silent_mode_">"1.Automatically balances performance where possible.\n        \\n2.Saves energy by reducing your device performance.\n        \\n3.It also balances your screen brightness to a stable position when your battery is below 30% and is about to dead.\n        \\n4.Turns off the Bluetooth/wi-fi automatically when it is in no use.\n        \\n5.Automatically changes your profile mode on your device(specially silent mode).\n        "</string>
+    <string name="autotech">Autotech</string>
+    <string name="title_activity_explore_now">ExploreNow</string>
+    <string name="explore_to_autobrightness">Explore to AutoBrightness</string>
+    <string name="explore_to_automobiledata">Explore to AutoMobiledata</string>
+    <string name="explore_to_batterystatus">Explore to BatteryStatus</string>
+    <string name="explore_to_autowifi_off">Explore to Autowifi-off</string>
+    <string name="explore_to_autobluetooth_off">Explore to AutoBluetooth-off</string>
+    <string name="explore_to_autosilent">Explore to Autosilent</string>
+    <string name="title_activity_explore_silent">ExploreSilent</string>
+    <string name="auto_silent_is_one_of_the_important_feature_in_this_app_in_this_the_timing_is_been_set_by_user_for_silent_profile_mode_once_the_timing_is_been_set_your_device_profile_mode_will_automatically_activates_to_silent_mode_till_the_given_timing_by_the_user_comes_to_an_end_once_the_timing_ends_your_device_will_automatically_come_back_to_normal_mode_n_njust_select_starttime_and_endtime_from_timepicker_and_set_your_silentmode_to_activate_automatically_">"Auto silent is one of the important feature in this app.In this, the timing is been set by user for silent profile mode.Once the timing is been set, your device profile mode will automatically activates to silent mode till the given timing by the user comes to an End. Once the timing Ends, your device will automatically come back to Normal mode.\\n\\nJust Select StartTime and EndTime from TimePicker and Set your SilentMode to Activate Automatically.\n        "</string>
+    <string name="title_activity_explore_blue">ExploreBlue</string>
+    <string name="title_activity_explore_wifi">ExploreWifi</string>
+    <string name="title_activity_explore_bright">ExploreBright</string>
+    <string name="title_activity_explore_mobile">ExploreMobile</string>
+    <string name="title_activity_explore_battery">ExploreBattery</string>
+    <string name="starttime">StartTime</string>
+    <string name="endtime">EndTime</string>
+    <string name="pick_your_time_to_activate_and_deactivate_silent_mode">Pick your time to activate and deactivate Silent mode</string>
+    <string name="pick_your_time_and_set_to_activate_and_deactivate_automobiledata">Pick your time and set to Activate and Deactivate AutoMobileData</string>
+    <string name="auto_bluetooth_off">Auto Bluetooth-Off</string>
+    <string name="this_task_do_not_need_any_ui_to_interact_with_user_this_task_automatically_gets_activated_for_background_processing_once_the_application_is_installed_n_n_no_need_to_interact_with_ui_this_task_runs_in_background_process_once_the_application_is_installed_">This task do not need any UI to interact with user, this task automatically gets Activated for Background Processing Once the Application is installed.\\n\\n No need to interact with UI, this task runs in Background Process once the Application is Installed.</string>
+    <string name="auto_wifi_off">Auto Wifi-Off</string>
+    <string name="title_activity_simple_browser">SimpleBrowser</string>
+
+</resources>
